@@ -1,0 +1,93 @@
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:24:53.982Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:25:00.408Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:25:04.550Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:25:08.826Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:25:15.616Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:25:27.406Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:26:11.800Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:26:31.762Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:27:18.267Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:27:22.819Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:27:42.389Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:27:59.781Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:28:20.585Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:41:09.009Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:45:22.912Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:46:38.127Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:46:38.155Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T10:46:38.174Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:46:48.686Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:46:48.708Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T10:46:48.726Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-12345.c123.us-east-1-4.ec2.cloud.redislabs.com:12345 failed - getaddrinfo ENOTFOUND redis-12345.c123.us-east-1-4.ec2.cloud.redislabs.com","stack":"Error: getaddrinfo ENOTFOUND redis-12345.c123.us-east-1-4.ec2.cloud.redislabs.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)","timestamp":"2025-06-13T10:46:48.745Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:46:58.550Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:47:17.648Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:47:17.675Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T10:47:17.694Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:47:25.980Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:47:25.997Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T10:47:26.010Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-12345.c123.us-east-1-4.ec2.cloud.redislabs.com:12345 failed - getaddrinfo ENOTFOUND redis-12345.c123.us-east-1-4.ec2.cloud.redislabs.com","stack":"Error: getaddrinfo ENOTFOUND redis-12345.c123.us-east-1-4.ec2.cloud.redislabs.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)","timestamp":"2025-06-13T10:47:26.112Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:47:34.012Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:47:34.035Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T10:47:34.050Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:47:41.737Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:47:41.756Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T10:47:41.766Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-12345.c123.us-east-1-4.ec2.cloud.redislabs.com:12345 failed - getaddrinfo ENOTFOUND redis-12345.c123.us-east-1-4.ec2.cloud.redislabs.com","stack":"Error: getaddrinfo ENOTFOUND redis-12345.c123.us-east-1-4.ec2.cloud.redislabs.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)","timestamp":"2025-06-13T10:47:41.783Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:47:59.665Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:47:59.686Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T10:47:59.702Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-12345.c123.us-east-1-4.ec2.cloud.redislabs.com:12345 failed - getaddrinfo ENOTFOUND redis-12345.c123.us-east-1-4.ec2.cloud.redislabs.com","stack":"Error: getaddrinfo ENOTFOUND redis-12345.c123.us-east-1-4.ec2.cloud.redislabs.com\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)","timestamp":"2025-06-13T10:47:59.722Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T10:59:39.274Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T10:59:39.292Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T10:59:39.311Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-10057.c61.us-east-1-3.ec2.redns.redis-cloud.com:10057 failed - write EPROTO B4130000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","stack":"Error: write EPROTO B4130000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","timestamp":"2025-06-13T10:59:39.570Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T11:00:16.422Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T11:00:16.449Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T11:00:16.463Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-10057.c61.us-east-1-3.ec2.redns.redis-cloud.com:10057 failed - write EPROTO C41E0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","stack":"Error: write EPROTO C41E0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","timestamp":"2025-06-13T11:00:16.737Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T11:00:17.732Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T11:00:17.752Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T11:00:17.769Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-10057.c61.us-east-1-3.ec2.redns.redis-cloud.com:10057 failed - write EPROTO 8C120000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","stack":"Error: write EPROTO 8C120000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","timestamp":"2025-06-13T11:00:17.999Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T11:00:23.040Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T11:00:23.064Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T11:00:23.077Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-10057.c61.us-east-1-3.ec2.redns.redis-cloud.com:10057 failed - write EPROTO C4490000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","stack":"Error: write EPROTO C4490000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","timestamp":"2025-06-13T11:00:23.322Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T11:00:43.595Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T11:00:43.612Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T11:00:43.621Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-10057.c61.us-east-1-3.ec2.redns.redis-cloud.com:10057 failed - write EPROTO D04D0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","stack":"Error: write EPROTO D04D0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","timestamp":"2025-06-13T11:00:43.932Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T11:00:44.794Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T11:00:44.814Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T11:00:44.832Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-10057.c61.us-east-1-3.ec2.redns.redis-cloud.com:10057 failed - write EPROTO A8410000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","stack":"Error: write EPROTO A8410000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","timestamp":"2025-06-13T11:00:45.058Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T11:00:48.033Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T11:00:48.052Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T11:00:48.065Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-10057.c61.us-east-1-3.ec2.redns.redis-cloud.com:10057 failed - write EPROTO 74420000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","stack":"Error: write EPROTO 74420000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","timestamp":"2025-06-13T11:00:48.331Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T11:01:11.432Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T11:01:11.447Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T11:01:11.461Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-10057.c61.us-east-1-3.ec2.redns.redis-cloud.com:10057 failed - write EPROTO 3C4B0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","stack":"Error: write EPROTO 3C4B0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","timestamp":"2025-06-13T11:01:11.713Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T11:01:44.609Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T11:01:44.625Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T11:01:44.648Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-10057.c61.us-east-1-3.ec2.redns.redis-cloud.com:10057 failed - write EPROTO F84F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","stack":"Error: write EPROTO F84F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","timestamp":"2025-06-13T11:01:44.901Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T11:03:06.074Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T11:03:06.100Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T11:03:06.114Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-10057.c61.us-east-1-3.ec2.redns.redis-cloud.com:10057 failed - write EPROTO 94470000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","stack":"Error: write EPROTO 94470000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","timestamp":"2025-06-13T11:03:06.370Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T11:03:12.965Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T11:03:12.991Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T11:03:13.023Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-10057.c61.us-east-1-3.ec2.redns.redis-cloud.com:10057 failed - write EPROTO B4100000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","stack":"Error: write EPROTO B4100000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","timestamp":"2025-06-13T11:03:13.268Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T11:03:20.167Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T11:03:20.191Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T11:03:20.209Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-10057.c61.us-east-1-3.ec2.redns.redis-cloud.com:10057 failed - write EPROTO CC450000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","stack":"Error: write EPROTO CC450000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","timestamp":"2025-06-13T11:03:20.462Z"}
+{"level":"info","message":"Socket.IO Redis adapter initialized","timestamp":"2025-06-13T11:03:35.577Z"}
+{"level":"info","message":"Server running in production mode on port 7777","timestamp":"2025-06-13T11:03:35.596Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-13T11:03:35.613Z"}
+{"context":"Uncaught Exception","level":"error","message":"Redis connection to redis-10057.c61.us-east-1-3.ec2.redns.redis-cloud.com:10057 failed - write EPROTO 244C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","stack":"Error: write EPROTO 244C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","timestamp":"2025-06-13T11:03:35.858Z"}
