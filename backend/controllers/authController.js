@@ -32,7 +32,7 @@ exports.login = async (req, res) => {
     user.isOnline = true;
     await user.save();
 
-    const token = generateToken(user._id); // تم التغيير هنا
+    const token = generateToken(user._id);
 
     res.json({
       token,
