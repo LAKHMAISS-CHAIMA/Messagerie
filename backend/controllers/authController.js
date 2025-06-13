@@ -1,6 +1,6 @@
 const User = require('../models/User');
-const jwt = require('jsonwebtoken');
 const bcrypt = require('bcrypt');
+const { generateToken } = require('../middlewares/authMiddleware');
 
 exports.register = async (req, res) => {
   try {
@@ -32,9 +32,7 @@ exports.login = async (req, res) => {
     user.isOnline = true;
     await user.save();
 
-    const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
-      expiresIn: '1h'
-    });
+    const token = generateToken(user._id); // تم التغيير هنا
 
     res.json({
       token,
@@ -65,6 +63,42 @@ exports.logout = async (req, res) => {
     user.lastSeen = new Date();
     await user.save();
     res.json({ message: 'User logged out' });
+  } catch (err) {
+    res.status(500).json({ message: err.message });
+  }
+};
+
+exports.updateProfile = async (req, res) => {
+  try {
+    const { username, email } = req.body;
+    const userId = req.user.id;
+
+    if (email) {
+      const existingUser = await User.findOne({ email, _id: { $ne: userId } });
+      if (existingUser) {
+        return res.status(400).json({ message: 'Email already exists' });
+      }
+    }
+
+    const updatedUser = await User.findByIdAndUpdate(
+      userId,
+      { 
+        $set: {
+          ...(username && { username }),
+          ...(email && { email })
+        }
+      },
+      { new: true, select: '-password' }
+    );
+
+    if (!updatedUser) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+
+    res.json({
+      message: 'Profile updated successfully',
+      user: updatedUser
+    });
   } catch (err) {
     res.status(500).json({ message: err.message });
   }
